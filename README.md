@@ -13,7 +13,7 @@
     : Python
     : React.js
     : Node.js
-    : Express.js
+    : SQL
     
 ► 📫 How to reach me ...
     : danenigma007@gmail.com
