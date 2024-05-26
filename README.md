@@ -14,6 +14,7 @@
     : React.js
     : Node.js
     : SQL
+    : NoSQL
     
 ► 📫 How to reach me ...
     : danenigma007@gmail.com
