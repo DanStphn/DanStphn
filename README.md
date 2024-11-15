@@ -1,7 +1,8 @@
 # Halloooo, I'm Daniel Stephen Alvarez!
 
 <div align="center">
-  <img src="./assets/tiredhalloweddd.gif" width=200px style="border-radius: 20;" alt="Halloweddd Gif">
+  <img src="./assets/tiredhalloweddd.gif" width="200px" style="border-radius: 20px;" alt="Halloweddd Gif">
+</div>
 
 I'm an IT student passionate about:
 
@@ -9,7 +10,6 @@ I'm an IT student passionate about:
 🎮 <b>Software Development</b> | 
 🎨 <b>Digital Art/Graphics</b> | 
 💎 <b>3D Modeling and Animation</b></p>
-</div>
 
 ## 🌱 Currently Learning
 
@@ -37,7 +37,7 @@ I'm an IT student passionate about:
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Visual Studio | VS Code | Unity | Git | GitHub | Plastic SCM |
 
-| ![Bridge](https://go-skill-icons.vercel.app/api/icons?i=bridge) | ![Blender](https://skillicons.dev/icons?i=blender) | ![Blockbench](https://skillicons.dev/icons?i=blockbench) | ![Krita](https://skillicons.dev/icons?i=krita) | ![Inkscape](https://go-skill-icons.vercel.app/api/icons?i=inkscape) |
+| ![Bridge](https://skillicons.dev/icons?i=bridge) | ![Blender](https://skillicons.dev/icons?i=blender) | ![Blockbench](https://skillicons.dev/icons?i=blockbench) | ![Krita](https://skillicons.dev/icons?i=krita) | ![Inkscape](https://skillicons.dev/icons?i=inkscape) |
 |:---:|:---:|:---:|:---:|:---:|
 | Bridge | Blender 3D | Blockbench | Krita | Inkscape |
 
@@ -54,7 +54,11 @@ I'm an IT student passionate about:
 
 ## 📈 GitHub Stats
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanStphn&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanStphn&show_icons=true&theme=radical" alt="Daniel's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanStphn&theme=radical" alt="Daniel's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanStphn&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## 🔗 Connect with Me
 
@@ -71,6 +75,5 @@ Here are some of my notable projects:
   <img src="./assets/robloxgamegif.gif" alt="Roblox Game">
 </div>
 
-- **Minecraft Bedrock Addon:** An addon enhancing gameplay mechanics. // To be posted on Marketplace soon!!
-- **Capstone Project:** A web application built with React.js and an Android app developed in Unity. // Under development!!
-
+- **Minecraft Bedrock Addon:** An addon enhancing gameplay mechanics. *(To be posted on Marketplace soon!)*
+- **Capstone Project:** A web application built with React.js and an Android app developed in Unity. *(Under development!)*
