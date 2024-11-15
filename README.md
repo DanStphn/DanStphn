@@ -15,9 +15,7 @@ I'm an IT student passionate about:
 
 ### Languages
 
-| ![Java](https://skillicons.dev/icons?i=java) | ![Kotlin](https://skillicons.dev/icons?i=kotlin) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![Lua](https://skillicons.dev/icons?i=lua) | ![C#](https://skillicons.dev/icons?i=cs) | ![C#](https://skillicons.dev/icons?i=python) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Java | Kotlin | JavaScript | Lua | C# | Python |
+![Java](https://skillicons.dev/icons?i=java) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Lua](https://skillicons.dev/icons?i=lua) ![C#](https://skillicons.dev/icons?i=cs) ![C#](https://skillicons.dev/icons?i=python) |
 
 ### Web Technologies
 
