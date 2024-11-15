@@ -1,14 +1,14 @@
 # Hi there, I'm Daniel Stephen Alvarez! 👋
 
 <div align="center">
-  <img src="./assets/tiredhalloweddd.gif" width=200px style="border-radius: 20px;" alt="Banner">
+  <img src="./assets/tiredhalloweddd.gif" width=200px style="border-radius: 20;" alt="Banner">
 
 I'm an IT student passionate about:
 
-🌐 **Web Development** | 
-🎮 **Software Development** | 
-🎨 **Digital Art/Graphics** | 
-💎 **3D Modeling and Animation**
+🌐 <p><b style="color:blue;">Web Development</b> | 
+🎮 Software Development | 
+🎨 Digital Art/Graphics | 
+💎 3D Modeling and Animation</p>
 </div>
 
 ## 🌱 Currently Learning
