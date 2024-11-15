@@ -1,7 +1,7 @@
 # Hi there, I'm Daniel Stephen Alvarez! 👋
 
 <div align="center">
-  <img src="./assets/tiredhalloweddd.gif" width=200px style="border-radius: 20;" alt="Banner">
+  <img src="./assets/tiredhalloweddd.gif" width=200px style="border-radius: 20;" alt="Halloweddd Gif">
 
 I'm an IT student passionate about:
 
@@ -61,9 +61,12 @@ I'm an IT student passionate about:
 Here are some of my notable projects:
 
 - **Roblox Game:** A custom game developed using Lua in Roblox Studio. [Try Playing Now](https://ro.blox.com/Ebh5?af_dp=roblox%3A%2F%2Fnavigation%2Fgame_details%3FgameId%3D6116228439&af_web_dp=https%3A%2F%2Fwww.roblox.com%2Fgames%2F17851222097)
+<div align="center">
+  <img src="./assets/robloxgamegif.gif" alt="Roblox Game">
+</div>
 - **Minecraft Bedrock Addon:** An addon enhancing gameplay mechanics. // To be posted on Marketplace soon!!
 - **Capstone Project:** A web application built with React.js and an Android app developed in Unity. // Under development!!
 
 <div align="center">
-  <img src="./assets/recyclegif.gif" alt="Banner">
+  <img src="./assets/recyclegif.gif" alt="Recycle Art Gif">
 </div>
