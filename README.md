@@ -49,7 +49,7 @@ I'm an IT student passionate about:
 - 3D and 2D Animation
 
 <div align="center">
-  <img src="./assets/recyclegif.gif" width=450px alt="Recycle Art Gif">
+  <img src="./assets/recyclegif.gif" alt="Recycle Art Gif">
 </div>
 
 ## 📈 GitHub Stats
