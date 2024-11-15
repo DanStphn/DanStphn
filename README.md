@@ -36,10 +36,8 @@ I'm expanding my knowledge in:
 
 Here are some of my notable projects:
 
-- **Roblox Game:** A custom game developed using Lua in Roblox Studio. [Repository Link](https://ro.blox.com/Ebh5?af_dp=roblox%3A%2F%2Fnavigation%2Fgame_details%3FgameId%3D6116228439&af_web_dp=https%3A%2F%2Fwww.roblox.com%2Fgames%2F17851222097)
+- **Roblox Game:** A custom game developed using Lua in Roblox Studio. [Try Playing Now](https://ro.blox.com/Ebh5?af_dp=roblox%3A%2F%2Fnavigation%2Fgame_details%3FgameId%3D6116228439&af_web_dp=https%3A%2F%2Fwww.roblox.com%2Fgames%2F17851222097)
 - **Minecraft Bedrock Addon:** An addon enhancing gameplay mechanics. // To be posted on Marketplace soon!!
 - **Capstone Project:** A web application built with React.js and an Android app developed in Unity. // Under development!!
-
-## 🎨 Visuals
 
 ![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
