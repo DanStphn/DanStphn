@@ -44,8 +44,14 @@ I'm an IT student passionate about:
 ### Others
 
 - JSON
+- 2D Digital Art
 - 3D Modeling
-- 3D Animation
+- 3D and 2D Animation
+
+<div align="center">
+  <img src="./assets/recyclegif.gif" width=450px alt="Recycle Art Gif">
+</div>
+
 ## 📈 GitHub Stats
 
 ![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanStphn&show_icons=true&theme=radical)
@@ -68,6 +74,3 @@ Here are some of my notable projects:
 - **Minecraft Bedrock Addon:** An addon enhancing gameplay mechanics. // To be posted on Marketplace soon!!
 - **Capstone Project:** A web application built with React.js and an Android app developed in Unity. // Under development!!
 
-<div align="center">
-  <img src="./assets/recyclegif.gif" width=450px alt="Recycle Art Gif">
-</div>
