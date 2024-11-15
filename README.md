@@ -5,9 +5,9 @@
 
 I'm an IT student passionate about:
 
-**Web Development**
-**Software Development**
-**Digital Art/Graphics**
+**Web Development** | 
+**Software Development** | 
+**Digital Art/Graphics** | 
 **3D Modeling and Animation**
 </div>
 
