@@ -27,10 +27,10 @@ I'm an IT student passionate about:
 
 ### Tools
 
-![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Unity](https://skillicons.dev/icons?i=unity) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Plastic SCM](https://skillicons.dev/icons?i=plasticscm) ![Blender](https://skillicons.dev/icons?i=blender) ![Inkscape](https://go-skill-icons.vercel.app/api/icons?i=inkscape)
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Unity](https://skillicons.dev/icons?i=unity) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Blender](https://skillicons.dev/icons?i=blender) ![Inkscape](https://go-skill-icons.vercel.app/api/icons?i=inkscape)  ![JSON](https://skillicons.dev/icons?i=json)
 
-### Others
-- JSON
+### Others (No icon yet 😔)
+- Plastic SCM
 - Krita
 - Blockbench
 - Bridge
