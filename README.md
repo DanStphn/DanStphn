@@ -5,10 +5,10 @@
 
 I'm an IT student passionate about:
 
-**Web Development** | 
-**Software Development** | 
-**Digital Art/Graphics** | 
-**3D Modeling and Animation**
+🌐 **Web Development** | 
+🎮 **Software Development** | 
+🎨 **Digital Art/Graphics** | 
+💎 **3D Modeling and Animation**
 </div>
 
 ## 🌱 Currently Learning
