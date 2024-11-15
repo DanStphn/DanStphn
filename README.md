@@ -60,7 +60,7 @@ I'm an IT student passionate about:
 
 Here are some of my notable projects:
 
-- **Roblox Game:** A custom game developed using Lua in Roblox Studio. [Try Playing Now](https://ro.blox.com/Ebh5?af_dp=roblox%3A%2F%2Fnavigation%2Fgame_details%3FgameId%3D6116228439&af_web_dp=https%3A%2F%2Fwww.roblox.com%2Fgames%2F17851222097)
+- **Roblox Game:** An RPG Game with 6 classes: Assassin, Barbarian, Dwarven Warrior, Knight, Mega Knight, and Spearman. It is still under development but is already playable as the alpha release. [Try Playing Now](https://ro.blox.com/Ebh5?af_dp=roblox%3A%2F%2Fnavigation%2Fgame_details%3FgameId%3D6116228439&af_web_dp=https%3A%2F%2Fwww.roblox.com%2Fgames%2F17851222097)
 <div align="center">
   <img src="./assets/robloxgamegif.gif" alt="Roblox Game">
 </div>
