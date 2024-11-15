@@ -1,7 +1,7 @@
 # Hi there, I'm Daniel Stephen Alvarez! 👋
 
 <div align="center">
-  <img src="./assets/tiredhalloweddd.png" alt="Banner">
+  <img src="./assets/tiredhalloweddd.gif" alt="Banner">
 </div>
 
 I'm an IT student passionate about:
@@ -65,5 +65,5 @@ Here are some of my notable projects:
 - **Capstone Project:** A web application built with React.js and an Android app developed in Unity. // Under development!!
 
 <div align="center">
-  <img src="./assets/recyclegif.png" alt="Banner">
+  <img src="./assets/recyclegif.gif" alt="Banner">
 </div>
