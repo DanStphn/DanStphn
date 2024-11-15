@@ -29,11 +29,12 @@ I'm an IT student passionate about:
 
 ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Unity](https://skillicons.dev/icons?i=unity) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Blender](https://skillicons.dev/icons?i=blender) ![Inkscape](https://go-skill-icons.vercel.app/api/icons?i=inkscape)  ![JSON](https://skillicons.dev/icons?i=json)
 
-### Others (No icon yet 😔)
-- Plastic SCM
-- Krita
-- Blockbench
-- Bridge
+### Others (No icons yet 😔)
+- 🍔 JSON
+- 🎀 Plastic SCM
+- 🖼️ Krita
+- 🍱 Blockbench
+- 🌉 Bridge (Minecraft Tool)
 
 <div align="center">
   <img src="./assets/recyclegif.gif" alt="Recycle Art Gif">
