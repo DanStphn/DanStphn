@@ -5,7 +5,7 @@
 
 I'm an IT student passionate about:
 
-🌐 <p><b>Web Development</b> | 
+<p>🌐 <b>Web Development</b> | 
 🎮 <b>Software Development</b> | 
 🎨 <b>Digital Art/Graphics</b> | 
 💎 <b>3D Modeling and Animation</b></p>
