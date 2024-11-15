@@ -2,14 +2,14 @@
 
 <div align="center">
   <img src="./assets/tiredhalloweddd.gif" width=200px styles="border-radius: 20px;" alt="Banner">
-</div>
 
 I'm an IT student passionate about:
 
-- **Web Development**
-- **Software Development**
-- **Digital Art/Graphics**
-- **3D Modeling and Animation**
+**Web Development**
+**Software Development**
+**Digital Art/Graphics**
+**3D Modeling and Animation**
+</div>
 
 ## 🌱 Currently Learning
 
