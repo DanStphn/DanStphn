@@ -11,7 +11,7 @@ I'm an IT student passionate about:
 
 ### Languages
 
-| ![Java](https://skillicons.dev/icons?i=java) | ![Kotlin](https://skillicons.dev/icons?i=kotlin) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![Lua](https://skillicons.dev/icons?i=lua) | ![C#](https://skillicons.dev/icons?i=csharp) |
+| ![Java](https://skillicons.dev/icons?i=java) | ![Kotlin](https://skillicons.dev/icons?i=kotlin) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![Lua](https://skillicons.dev/icons?i=lua) | ![C#](https://skillicons.dev/icons?i=cs) |
 |:---:|:---:|:---:|:---:|:---:|
 | Java | Kotlin | JavaScript | Lua | C# |
 
@@ -33,7 +33,7 @@ I'm an IT student passionate about:
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Visual Studio | VS Code | Unity | Git | GitHub | Plastic SCM |
 
-| ![Bridge](https://skillicons.dev/icons?i=bridge) | ![Blender](https://skillicons.dev/icons?i=blender) | ![Blockbench](https://skillicons.dev/icons?i=blockbench) | ![Krita](https://skillicons.dev/icons?i=krita) | ![Inkscape](https://skillicons.dev/icons?i=inkscape) |
+| ![Bridge](https://go-skill-icons.vercel.app/api/icons?i=bridge) | ![Blender](https://skillicons.dev/icons?i=blender) | ![Blockbench](https://skillicons.dev/icons?i=blockbench) | ![Krita](https://skillicons.dev/icons?i=krita) | ![Inkscape](https://go-skill-icons.vercel.app/api/icons?i=inkscape) |
 |:---:|:---:|:---:|:---:|:---:|
 | Bridge | Blender 3D | Blockbench | Krita | Inkscape |
 
