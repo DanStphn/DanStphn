@@ -9,19 +9,39 @@ I'm an IT student passionate about:
 
 ## 🌱 Currently Learning
 
-I'm expanding my knowledge in:
+### Languages
 
-- **Languages:**
-  - Kotlin
-  - Lua
-  - Python
-- **Web Technologies:**
-  - React.js
-  - Node.js
-- **Databases:**
-  - SQL
-  - NoSQL
+| ![Java](https://skillicons.dev/icons?i=java) | ![Kotlin](https://skillicons.dev/icons?i=kotlin) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![Lua](https://skillicons.dev/icons?i=lua) | ![C#](https://skillicons.dev/icons?i=csharp) |
+|:---:|:---:|:---:|:---:|:---:|
+| Java | Kotlin | JavaScript | Lua | C# |
 
+### Web Technologies
+
+| ![React.js](https://skillicons.dev/icons?i=react) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Express.js](https://skillicons.dev/icons?i=express) | ![Firebase](https://skillicons.dev/icons?i=firebase) | ![AWS](https://skillicons.dev/icons?i=aws) | ![Google Cloud](https://skillicons.dev/icons?i=gcp) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| React.js | Node.js | Express.js | Firebase | AWS | Google Cloud |
+
+### Databases
+
+| ![SQL](https://skillicons.dev/icons?i=postgres) | ![NoSQL](https://skillicons.dev/icons?i=mongodb) |
+|:---:|:---:|
+| SQL | NoSQL |
+
+### Tools
+
+| ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) | ![VS Code](https://skillicons.dev/icons?i=vscode) | ![Unity](https://skillicons.dev/icons?i=unity) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Plastic SCM](https://skillicons.dev/icons?i=plasticscm) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Visual Studio | VS Code | Unity | Git | GitHub | Plastic SCM |
+
+| ![Bridge](https://skillicons.dev/icons?i=bridge) | ![Blender](https://skillicons.dev/icons?i=blender) | ![Blockbench](https://skillicons.dev/icons?i=blockbench) | ![Krita](https://skillicons.dev/icons?i=krita) | ![Inkscape](https://skillicons.dev/icons?i=inkscape) |
+|:---:|:---:|:---:|:---:|:---:|
+| Bridge | Blender 3D | Blockbench | Krita | Inkscape |
+
+### Others
+
+- JSON
+- 3D Modeling
+- 3D Animation
 ## 📈 GitHub Stats
 
 ![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanStphn&show_icons=true&theme=radical)
