@@ -1,5 +1,9 @@
 # Hi there, I'm Daniel Stephen Alvarez! 👋
 
+<div align="center">
+  <img src="./assets/tiredhalloweddd.png" alt="Banner">
+</div>
+
 I'm an IT student passionate about:
 
 - **Web Development**
@@ -60,4 +64,6 @@ Here are some of my notable projects:
 - **Minecraft Bedrock Addon:** An addon enhancing gameplay mechanics. // To be posted on Marketplace soon!!
 - **Capstone Project:** A web application built with React.js and an Android app developed in Unity. // Under development!!
 
-![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+<div align="center">
+  <img src="./assets/recyclegif.png" alt="Banner">
+</div>
