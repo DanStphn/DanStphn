@@ -37,7 +37,7 @@ I'm an IT student passionate about:
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Visual Studio | VS Code | Unity | Git | GitHub | Plastic SCM |
 
-| ![Bridge](https://skillicons.dev/icons?i=bridge) | ![Blender](https://skillicons.dev/icons?i=blender) | ![Blockbench](https://skillicons.dev/icons?i=blockbench) | ![Krita](https://skillicons.dev/icons?i=krita) | ![Inkscape](https://skillicons.dev/icons?i=inkscape) |
+| ![Bridge](https://go-skill-icons.vercel.app/api/icons?i=bridge) | ![Blender](https://skillicons.dev/icons?i=blender) | ![Blockbench](https://skillicons.dev/icons?i=blockbench) | ![Krita](https://skillicons.dev/icons?i=krita) | ![Inkscape](https://go-skill-icons.vercel.app/api/icons?i=inkscape) |
 |:---:|:---:|:---:|:---:|:---:|
 | Bridge | Blender 3D | Blockbench | Krita | Inkscape |
 
