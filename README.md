@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="./assets/tiredhalloweddd.gif" width="200px" style="border-radius: 20px;" alt="Halloweddd Gif">
-</div>
 
 I'm an IT student passionate about:
 
@@ -10,6 +9,7 @@ I'm an IT student passionate about:
 🎮 <b>Software Development</b> | 
 🎨 <b>Digital Art/Graphics</b> | 
 💎 <b>3D Modeling and Animation</b></p>
+</div>
 
 ## 🌱 Currently Learning
 
