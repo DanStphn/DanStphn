@@ -69,5 +69,5 @@ Here are some of my notable projects:
 - **Capstone Project:** A web application built with React.js and an Android app developed in Unity. // Under development!!
 
 <div align="center">
-  <img src="./assets/recyclegif.gif" alt="Recycle Art Gif">
+  <img src="./assets/recyclegif.gif" width=400px alt="Recycle Art Gif">
 </div>
