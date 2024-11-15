@@ -1,4 +1,4 @@
-# Hi there, I'm Daniel Stephen Alvarez! 👋
+# Halloooo, I'm Daniel Stephen Alvarez!
 
 <div align="center">
   <img src="./assets/tiredhalloweddd.gif" width=200px style="border-radius: 20;" alt="Halloweddd Gif">
