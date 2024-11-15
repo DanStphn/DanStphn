@@ -56,7 +56,6 @@ I'm an IT student passionate about:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanStphn&show_icons=true&theme=radical" alt="Daniel's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanStphn&theme=radical" alt="Daniel's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanStphn&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
