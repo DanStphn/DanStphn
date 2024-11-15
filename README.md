@@ -1,7 +1,7 @@
 # Hi there, I'm Daniel Stephen Alvarez! 👋
 
 <div align="center">
-  <img src="./assets/tiredhalloweddd.gif" alt="Banner">
+  <img src="./assets/tiredhalloweddd.gif" width=200px styles="border-radius: 20px;" alt="Banner">
 </div>
 
 I'm an IT student passionate about:
