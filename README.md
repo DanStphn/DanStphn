@@ -1,15 +1,15 @@
 # Hi there, I'm Daniel Stephen Alvarez! 👋
 
 <div align="center">
-  <img src="./assets/tiredhalloweddd.png" alt="Banner">
-</div>
+  <img src="./assets/tiredhalloweddd.gif" width=200px style="border-radius: 20;" alt="Banner">
 
 I'm an IT student passionate about:
 
-- **Web Development**
-- **Software Development**
-- **Digital Art/Graphics**
-- **3D Modeling and Animation**
+<p>🌐 <b>Web Development</b> | 
+🎮 <b>Software Development</b> | 
+🎨 <b>Digital Art/Graphics</b> | 
+💎 <b>3D Modeling and Animation</b></p>
+</div>
 
 ## 🌱 Currently Learning
 
@@ -65,5 +65,5 @@ Here are some of my notable projects:
 - **Capstone Project:** A web application built with React.js and an Android app developed in Unity. // Under development!!
 
 <div align="center">
-  <img src="./assets/recyclegif.png" alt="Banner">
+  <img src="./assets/recyclegif.gif" alt="Banner">
 </div>
