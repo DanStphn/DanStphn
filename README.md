@@ -48,11 +48,11 @@ Here are some of my artworks:
   <img src="./assets/handsColored1.png" alt="Image 4" height="200px" style="border-radius: 10px;"/>
 </div>
 
-<div style="position: fixed; bottom: 0; left: 0; width: 100%; height: 100%; z-index: -1;"><img src="./assets/bottom.png" width="100%" alt="Bottom Banner"></div>
-
 ## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanStphn&show_icons=true&theme=radical" alt="Daniel's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanStphn&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
+<div style="position: fixed; bottom: 0; left: 0; width: 100%; height: 100%; z-index: -1;"><img src="./assets/bottom.png" width="100%" alt="Bottom Banner"></div>
