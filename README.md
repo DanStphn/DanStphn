@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/recyclegif.gif" alt="Recycle Art Gif">
+</div>
+
 # Halloooo, I'm Daniel Stephen Alvarez!
 
 <div align="center">
@@ -35,10 +39,6 @@ I'm an IT student passionate about:
 - 🖼️ Krita
 - 🍱 Blockbench
 - 🌉 Bridge (Minecraft Tool)
-
-<div align="center">
-  <img src="./assets/recyclegif.gif" alt="Recycle Art Gif">
-</div>
 
 ## 📈 GitHub Stats
 
