@@ -41,7 +41,6 @@ I'm an IT student passionate about:
 <div align="center" style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
   <img src="./assets/pinoy.gif" alt="Image 1" height="200px" style="border-radius: 10px;"/>
   <img src="./assets/recyclegif.gif" alt="Image 2" height="200px" style="border-radius: 10px;"/>
-  <img src="./assets/image1.png" alt="Image 3" height="200px" style="border-radius: 10px;"/>
   <img src="./assets/handsColored1.png" alt="Image 4" height="200px" style="border-radius: 10px;"/>
 </div>
 
