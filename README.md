@@ -22,9 +22,17 @@
 
 ## 🔗 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-danenigma007%40gmail.com-red)](mailto:danenigma007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ds-alvarez/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/danyhallo)
+<p align="center">
+  <a href="mailto:danenigma007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-danenigma007%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/ds-alvarez/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/danyhallo">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
 
 ## 🚀 Projects
 
