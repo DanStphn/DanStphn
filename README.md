@@ -1,8 +1,8 @@
-<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background-image: url('path_to_your_image.jpg'); background-size: cover; background-position: center;"><img src="./assets/top.png" width="100%" alt="Roblox Game"></div>
+<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background-image: url('./assets/top.png'); background-size: cover; background-position: center;"></div>
 
 # Halloooo, I'm Daniel Stephen Alvarez!
 
-<div align="center">
+<div align="center" >
   <img src="./assets/tiredhalloweddd.gif" width="200px" alt="Halloweddd Gif">
 
 I'm an IT student passionate about:
