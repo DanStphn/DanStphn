@@ -40,6 +40,10 @@ I'm an IT student passionate about:
 - 🍱 Blockbench
 - 🌉 Bridge (Minecraft Tool)
 
+<div align="center">
+  <img src="./assets/recyclegif.gif" alt="Recycle Art Gif">
+</div>
+
 ## 📈 GitHub Stats
 
 <div align="center">
