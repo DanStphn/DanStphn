@@ -1,6 +1,6 @@
 <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;"><img src="./assets/top.png" width="100%" alt="Roblox Game"></div>
 
-<div align="center" style="position: fixed; top: 0;">
+<div align="center" style="position: fixed; top: 0;" >
   <img src="./assets/tiredhalloweddd.gif" width="200px" alt="Halloweddd Gif">
 
   <h1>Halloooo, I'm Daniel Stephen Alvarez!</h1>
@@ -13,50 +13,11 @@
 
   ## 🌱 Currently Learning
 
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; padding: 20px; text-align: left;">
-    <div>
-      <h3>Languages</h3>
-      ![Java](https://skillicons.dev/icons?i=java) 
-      ![Kotlin](https://skillicons.dev/icons?i=kotlin) 
-      ![JavaScript](https://skillicons.dev/icons?i=javascript) 
-      ![Lua](https://skillicons.dev/icons?i=lua) 
-      ![C#](https://skillicons.dev/icons?i=cs) 
-      ![Python](https://skillicons.dev/icons?i=python)
-    </div>
+| **Languages** | **Web Technologies** | **Databases** | **Tools** | **Others** |
+|---------------|----------------------|---------------|-----------|------------|
+| ![Java](https://skillicons.dev/icons?i=java) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Lua](https://skillicons.dev/icons?i=lua) ![C#](https://skillicons.dev/icons?i=cs) ![Python](https://skillicons.dev/icons?i=python) | ![React.js](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![Firebase](https://skillicons.dev/icons?i=firebase) ![AWS](https://skillicons.dev/icons?i=aws) ![Google Cloud](https://skillicons.dev/icons?i=gcp) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Unity](https://skillicons.dev/icons?i=unity) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Blender](https://skillicons.dev/icons?i=blender) ![Inkscape](https://go-skill-icons.vercel.app/api/icons?i=inkscape) ![JSON](https://skillicons.dev/icons?i=json) | 🍔 JSON<br>🎀 Plastic SCM<br>🖼️ Krita<br>🍱 Blockbench<br>🌉 Bridge (Minecraft Tool) |
 
-    <div>
-      <h3>Web Technologies</h3>
-      ![React.js](https://skillicons.dev/icons?i=react) 
-      ![Node.js](https://skillicons.dev/icons?i=nodejs) 
-      ![Express.js](https://skillicons.dev/icons?i=express) 
-      ![Firebase](https://skillicons.dev/icons?i=firebase) 
-      ![AWS](https://skillicons.dev/icons?i=aws) 
-      ![Google Cloud](https://skillicons.dev/icons?i=gcp)
-    </div>
 
-    <div>
-      <h3>Databases</h3>
-      ![SQL](https://skillicons.dev/icons?i=postgres) 
-      ![NoSQL](https://skillicons.dev/icons?i=mongodb)
-    </div>
-
-    <div>
-      <h3>Tools</h3>
-      ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) 
-      ![VS Code](https://skillicons.dev/icons?i=vscode) 
-      ![Unity](https://skillicons.dev/icons?i=unity) 
-      ![Git](https://skillicons.dev/icons?i=git) 
-      ![GitHub](https://skillicons.dev/icons?i=github) 
-      ![Blender](https://skillicons.dev/icons?i=blender) 
-      ![Inkscape](https://go-skill-icons.vercel.app/api/icons?i=inkscape) 
-      ![JSON](https://skillicons.dev/icons?i=json)
-    </div>
-
-    <div>
-      <h3>Others</h3>
-      🍔 JSON | 🎀 Plastic SCM | 🖼️ Krita | 🍱 Blockbench | 🌉 Bridge (Minecraft Tool)
-    </div>
-  </div>
 </div>
 
 ## 📈 GitHub Stats
