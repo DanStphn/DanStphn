@@ -23,14 +23,14 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:danenigma007@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" style="margin: 0 10px;"/>
+  <a href="mailto:danenigma007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-danenigma007%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/ds-alvarez/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 10px;"/>
+  <a href="https://www.linkedin.com/in/ds-alvarez/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://x.com/danyhallo" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" style="margin: 0 10px;"/>
+  <a href="https://x.com/danyhallo">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
 
