@@ -1,6 +1,6 @@
 <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;"><img src="./assets/top.png" width="100%" alt="Roblox Game"></div>
 
-<div align="center" style="position: fixed; top: 0;" >
+<div align="center" style="position: fixed; top: 0;">
   <img src="./assets/tiredhalloweddd.gif" width="200px" alt="Halloweddd Gif">
 
   <h1>Halloooo, I'm Daniel Stephen Alvarez!</h1>
@@ -13,33 +13,49 @@
 
   ## 🌱 Currently Learning
 
-  ### Languages
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; padding: 20px; text-align: left;">
+    <div>
+      <h3>Languages</h3>
+      ![Java](https://skillicons.dev/icons?i=java) 
+      ![Kotlin](https://skillicons.dev/icons?i=kotlin) 
+      ![JavaScript](https://skillicons.dev/icons?i=javascript) 
+      ![Lua](https://skillicons.dev/icons?i=lua) 
+      ![C#](https://skillicons.dev/icons?i=cs) 
+      ![Python](https://skillicons.dev/icons?i=python)
+    </div>
 
-  ![Java](https://skillicons.dev/icons?i=java) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Lua](https://skillicons.dev/icons?i=lua) ![C#](https://skillicons.dev/icons?i=cs) ![C#](https://skillicons.dev/icons?i=python)
+    <div>
+      <h3>Web Technologies</h3>
+      ![React.js](https://skillicons.dev/icons?i=react) 
+      ![Node.js](https://skillicons.dev/icons?i=nodejs) 
+      ![Express.js](https://skillicons.dev/icons?i=express) 
+      ![Firebase](https://skillicons.dev/icons?i=firebase) 
+      ![AWS](https://skillicons.dev/icons?i=aws) 
+      ![Google Cloud](https://skillicons.dev/icons?i=gcp)
+    </div>
 
-  ### Web Technologies
+    <div>
+      <h3>Databases</h3>
+      ![SQL](https://skillicons.dev/icons?i=postgres) 
+      ![NoSQL](https://skillicons.dev/icons?i=mongodb)
+    </div>
 
-  ![React.js](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![Firebase](https://skillicons.dev/icons?i=firebase) ![AWS](https://skillicons.dev/icons?i=aws) ![Google Cloud](https://skillicons.dev/icons?i=gcp)
+    <div>
+      <h3>Tools</h3>
+      ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) 
+      ![VS Code](https://skillicons.dev/icons?i=vscode) 
+      ![Unity](https://skillicons.dev/icons?i=unity) 
+      ![Git](https://skillicons.dev/icons?i=git) 
+      ![GitHub](https://skillicons.dev/icons?i=github) 
+      ![Blender](https://skillicons.dev/icons?i=blender) 
+      ![Inkscape](https://go-skill-icons.vercel.app/api/icons?i=inkscape) 
+      ![JSON](https://skillicons.dev/icons?i=json)
+    </div>
 
-  ### Databases
-
-  ![SQL](https://skillicons.dev/icons?i=postgres) ![NoSQL](https://skillicons.dev/icons?i=mongodb)
-
-  ### Tools
-
-  ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Unity](https://skillicons.dev/icons?i=unity) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Blender](https://skillicons.dev/icons?i=blender) ![Inkscape](https://go-skill-icons.vercel.app/api/icons?i=inkscape)  ![JSON](https://skillicons.dev/icons?i=json)
-
-  ### Others (No icons yet 😔)
-  - 🍔 JSON
-  - 🎀 Plastic SCM
-  - 🖼️ Krita
-  - 🍱 Blockbench
-  - 🌉 Bridge (Minecraft Tool)
-
-  <div align="center" style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
-    <img src="./assets/pinoy.gif" alt="Image 1" height="200px" style="border-radius: 10px;"/>
-    <img src="./assets/recyclegif.gif" alt="Image 2" height="200px" style="border-radius: 10px;"/>
-    <img src="./assets/handsColored1.png" alt="Image 4" height="200px" style="border-radius: 10px;"/>
+    <div>
+      <h3>Others</h3>
+      🍔 JSON | 🎀 Plastic SCM | 🖼️ Krita | 🍱 Blockbench | 🌉 Bridge (Minecraft Tool)
+    </div>
   </div>
 </div>
 
@@ -67,3 +83,11 @@ Here are some of my notable projects:
 
 - **Minecraft Bedrock Addon:** An addon enhancing gameplay mechanics. *(To be posted on Marketplace soon!)*
 - **Capstone Project:** A web application built with React.js and an Android app developed in Unity. *(Under development!)*
+
+### 🎨 Art Samples
+
+<div align="center" style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
+  <img src="./assets/pinoy.gif" alt="Image 1" height="200px" style="border-radius: 10px;"/>
+  <img src="./assets/recyclegif.gif" alt="Image 2" height="200px" style="border-radius: 10px;"/>
+  <img src="./assets/handsColored1.png" alt="Image 4" height="200px" style="border-radius: 10px;"/>
+</div>
