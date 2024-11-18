@@ -1,10 +1,9 @@
-<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background-image: url('./assets/top.png'); background-size: cover; background-position: center;"></div>
+<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;"><img src="./assets/top.png" width="100%" alt="Roblox Game"></div>
 
-# Halloooo, I'm Daniel Stephen Alvarez!
-
-<div align="center" >
+<div align="center" style="position: fixed; top: 0;" >
   <img src="./assets/tiredhalloweddd.gif" width="200px" alt="Halloweddd Gif">
 
+<h1>Halloooo, I'm Daniel Stephen Alvarez!</h1>
 I'm an IT student passionate about:
 
 <p>🌐 <b>Web Development</b> | 
