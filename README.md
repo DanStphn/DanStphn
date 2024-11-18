@@ -45,7 +45,9 @@ Here are some of my notable projects:
 - **Minecraft Bedrock Addon:** An addon enhancing gameplay mechanics. *(To be posted on Marketplace soon!)*
 - **Capstone Project:** A web application built with React.js and an Android app developed in Unity. *(Under development!)*
 
-### 🎨 Art Samples
+## 🎨 Art Samples
+
+Here are some of my artworks:
 
 <div align="center" style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
   <img src="./assets/pinoy.gif" alt="Image 1" height="200px" style="border-radius: 10px;"/>
