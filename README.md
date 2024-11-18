@@ -1,11 +1,9 @@
-<div align="center">
-  <img src="./assets/recyclegif.gif" alt="Recycle Art Gif">
-</div>
+<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background-image: url('path_to_your_image.jpg'); background-size: cover; background-position: center;"><img src="./assets/top.png" width="100%" alt="Roblox Game"></div>
 
 # Halloooo, I'm Daniel Stephen Alvarez!
 
 <div align="center">
-  <img src="./assets/tiredhalloweddd.gif" width="200px" style="border-radius: 20px;" alt="Halloweddd Gif">
+  <img src="./assets/tiredhalloweddd.gif" width="200px" alt="Halloweddd Gif">
 
 I'm an IT student passionate about:
 
@@ -41,10 +39,10 @@ I'm an IT student passionate about:
 - 🌉 Bridge (Minecraft Tool)
 
 <div align="center" style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
-  <img src="./assets/image1.png" alt="Image 1" height="200px" style="border-radius: 10px;"/>
-  <img src="./assets/image2.png" alt="Image 2" height="200px" style="border-radius: 10px;"/>
-  <img src="./assets/image3.png" alt="Image 3" height="200px" style="border-radius: 10px;"/>
-  <img src="./assets/image4.png" alt="Image 4" height="200px" style="border-radius: 10px;"/>
+  <img src="./assets/pinoy.gif" alt="Image 1" height="200px" style="border-radius: 10px;"/>
+  <img src="./assets/recyclegif.gif" alt="Image 2" height="200px" style="border-radius: 10px;"/>
+  <img src="./assets/image1.png" alt="Image 3" height="200px" style="border-radius: 10px;"/>
+  <img src="./assets/handsColored1.png" alt="Image 4" height="200px" style="border-radius: 10px;"/>
 </div>
 
 ## 📈 GitHub Stats
