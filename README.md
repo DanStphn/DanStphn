@@ -1,4 +1,4 @@
-<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;"><img src="./assets/top.png" width="100%" alt="Roblox Game"></div>
+<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;"><img src="./assets/top.png" width="100%" alt="Top Banner"></div>
 
 <div align="center" style="position: fixed; top: 0;" >
   <img src="./assets/tiredhalloweddd.gif" width="200px" alt="Halloweddd Gif">
@@ -52,3 +52,5 @@ Here are some of my notable projects:
   <img src="./assets/recyclegif.gif" alt="Image 2" height="200px" style="border-radius: 10px;"/>
   <img src="./assets/handsColored1.png" alt="Image 4" height="200px" style="border-radius: 10px;"/>
 </div>
+
+<div style="position: fixed; bottom: 0; left: 0; width: 100%; height: 100%; z-index: -1;"><img src="./assets/bottom.png" width="100%" alt="Bottom Banner"></div>
