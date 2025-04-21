@@ -43,8 +43,11 @@ Here are some of my notable projects:
   <img src="./assets/robloxgamegif.gif" alt="Roblox Game">
 </div>
 
-- **Minecraft Bedrock Addon:** An addon enhancing gameplay mechanics. *(To be posted on Marketplace soon!)*
-- **Capstone Project:** A web application built with React.js and an Android app developed in Unity. *(Under development!)*
+- **Capstone Project:** A web application built with React.js and an Android app developed in Unity.
+<div align="center"> <img src="./assets/aidm_sample2.png" height=300> </div>
+
+- **Minecraft Bedrock Content:** A variety of Minecraft content such as addons and maps.
+Check us out in Minecraft Marketplace: https://www.minecraft.net/en-us/marketplace/creator?name=delisoft%20studios
 
 ## 🎨 Art Samples
 
