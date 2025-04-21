@@ -43,9 +43,11 @@ Here are some of my notable projects:
   <img src="./assets/robloxgamegif.gif" alt="Roblox Game">
 </div>
 <br>
+
 - **Capstone Project:** AidMentor: An Augmented Reality Companion for First Aid Treatment of Physical Ailments. Built with a web app using React.js and an Android app developed with Unity.
 <div align="center"> <img src="./assets/aidm_sample.png" height=300> </div>
 <br>
+
 - **Minecraft Bedrock Content:** A variety of Minecraft content such as addons and maps.
 Check us out in Minecraft Marketplace: https://www.minecraft.net/en-us/marketplace/creator?name=delisoft%20studios
 
