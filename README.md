@@ -44,7 +44,7 @@ Here are some of my notable projects:
 </div>
 
 - **Capstone Project:** A web application built with React.js and an Android app developed in Unity.
-<div align="center"> <img src="./assets/aidm_sample2.png" height=300> </div>
+<div align="center"> <img src="./assets/aidm_sample.png" height=300> </div>
 
 - **Minecraft Bedrock Content:** A variety of Minecraft content such as addons and maps.
 Check us out in Minecraft Marketplace: https://www.minecraft.net/en-us/marketplace/creator?name=delisoft%20studios
